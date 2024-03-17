@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-17T06:53:18.286Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="3z2pnhkivtlFjcZsonYe" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-17T06:54:12.981Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="E9BJtrjvE48zD2d1xkzZ" version="24.0.7" type="github">
   <diagram name="Page-1" id="6e9QKgI03reqmt4rfAvy">
     <mxGraphModel dx="1242" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -31,8 +31,8 @@
             <mxPoint x="220" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xoiJE4jO3vRNjwVfq7wX-8" value="Original URL &amp;amp; HTTP Status Code of 301 / 302" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-35;" vertex="1" parent="1">
-          <mxGeometry x="230" y="430" width="270" height="30" as="geometry" />
+        <mxCell id="xoiJE4jO3vRNjwVfq7wX-8" value="&lt;div&gt;Original URL &amp;amp; HTTP Status Code&amp;nbsp;&lt;/div&gt;&lt;div&gt;of 301 / 302&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-35;" vertex="1" parent="1">
+          <mxGeometry x="270" y="430" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xoiJE4jO3vRNjwVfq7wX-9" value="Original URL Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="640" width="120" height="60" as="geometry" />
