@@ -1,3 +1,3 @@
 # draw.io
 
-Preserve System Design Flowcharts, High-Level Design and Design Deep Dive Diagrams
+Repository to store system design flowcharts and diagrams
